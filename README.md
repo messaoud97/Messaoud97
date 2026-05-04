@@ -1,26 +1,18 @@
 <div align="center">
 
-### Hey, I build with Node.js & Python 🚀
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60" alt="cool-cat-gif">
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="coding-vibes">
+### ✨ Executing something legendary...
 
-```bash
-$ npm run build && python main.py
-  ✨ Initializing...
+```sh
+$ ./initialize
+  ⚡ Booting up...
+  🎯 Systems online
+  💻 Ready to build
   
-  ┌─────────────────────────────────────┐
-  │ Node.js                    Python    │
-  │ ─────────────────────────────────── │
-  │ APIs & backends            Data sci │
-  │ Real-time servers          Scripts  │
-  │ Microservices              ML & AI  │
-  │ Fast & async               Clean &  │
-  │                            flexible │
-  └─────────────────────────────────────┘
-  
-  💻 Ready to ship
+Hello, World! 🚀
 ```
 
-**Turning ideas into reality.**
+**Let's create something awesome together.**
 
 </div>
